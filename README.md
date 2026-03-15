@@ -62,7 +62,4 @@ lib/
      └── user_image_picker.dart
 ```
 
-## 📸 Screenshots
-
-
 ---
